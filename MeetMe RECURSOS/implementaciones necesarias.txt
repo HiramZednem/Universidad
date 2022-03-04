@@ -1,0 +1,9 @@
+Que el usuario no se pueda mandar mensajes solo
+
+Que a la hora de enviar mensajes, no se pueda ingresar un numero negativo
+
+no poner espacios en nombre de usuarios
+
+que el nombre de usuario no sea mayor de 16 digitos 
+
+agregar más años de nacimiento
